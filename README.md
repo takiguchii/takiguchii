@@ -1,10 +1,8 @@
-# Bem-vindo ao Meu Perfil do GitHub!
-
 Olá, Sou Alexandre, um estudante apaixonado por programação e tecnologia. Neste cantinho do GitHub, você encontrará meus projetos, experimentos e aventuras enquanto eu continuo minha jornada de aprendizado no mundo da programação.
 
 ## Sobre Mim
 
-- 🎓 Estudante de Ciencias da Programação UNIMAR MARILIA.
+- 🎓 Estudante Solo.
 - 🌱 Aprendendo cada dia mais sobre C++ e Python.
 - 💬 Adoro compartilhar conhecimento e aprender com a comunidade.
 - ⚡ Curiosidade: Sempre em busca do próximo desafio!
