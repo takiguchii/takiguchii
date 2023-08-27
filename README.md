@@ -1,16 +1,22 @@
-### Hi there 👋
+# Bem-vindo ao Meu Perfil do GitHub!
 
-<!--
-**takiguchii/takiguchii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, Sou Alexandre, um estudante apaixonado por programação e tecnologia. Neste cantinho do GitHub, você encontrará meus projetos, experimentos e aventuras enquanto eu continuo minha jornada de aprendizado no mundo da programação.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de Ciencias da Programação UNIMAR MARILIA.
+- 🌱 Aprendendo cada dia mais sobre C++ e Python.
+- 💬 Adoro compartilhar conhecimento e aprender com a comunidade.
+- ⚡ Curiosidade: Sempre em busca do próximo desafio!
+
+
+- 🐦 [Twitter](https://twitter.com/360_takiguchi)
+- 📧 [E-mail](alexandre.pupim360@gmail.com)
+
+## Vamos Conectar!
+
+Estou sempre aberto a novas oportunidades, colaborações e trocas de ideias. Se você compartilha do mesmo entusiasmo por programação, vamos nos conectar!
+
+---
+
+Feito com 💻 e ☕ por Alê ;)
