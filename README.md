@@ -3,7 +3,7 @@ Olá, Sou Alexandre, um estudante apaixonado por programação e tecnologia. Nes
 ## Sobre Mim
 
 - 🎓 Estudante Solo.
-- 🌱 Aprendendo cada dia mais sobre C++.
+- 🌱 Aprendendo cada dia mais sobre.
 - 💬 Adoro compartilhar conhecimento e aprender com a comunidade.
 - ⚡ Curiosidade: Sempre em busca do próximo desafio!
 
