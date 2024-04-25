@@ -3,7 +3,7 @@ Olá, Sou Alexandre, um estudante apaixonado por programação e tecnologia. Nes
 ## Sobre Mim
 
 - 🎓 Estudante Solo.
-- 🌱 Aprendendo cada dia mais sobre.
+- 🌱 Aprendendo cada dia mais 🙌
 - 💬 Adoro compartilhar conhecimento e aprender com a comunidade.
 - ⚡ Curiosidade: Sempre em busca do próximo desafio!
 
@@ -17,4 +17,4 @@ Estou sempre aberto a novas oportunidades, colaborações e trocas de ideias. Se
 
 ---
 
-Feito com 💻 e ☕ por Alê ;)
+;)
