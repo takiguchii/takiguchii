@@ -2,19 +2,10 @@ Olá, Sou Alexandre, um estudante apaixonado por programação e tecnologia. Nes
 
 ## Sobre Mim
 
-- 🎓 Estudante Solo.
-- 🌱 Aprendendo cada dia mais 🙌
+- 🎓 Um dev em desenvolvimento...
+- ⚡ Aprendendo cada dia mais 🙌
 - 💬 Adoro compartilhar conhecimento e aprender com a comunidade.
-- ⚡ Curiosidade: Sempre em busca do próximo desafio!
-
 
 - 🐦 [Twitter](https://twitter.com/360_takiguchi)
 - 📧 [E-mail](alexandre.pupim360@gmail.com)
 
-## Vamos Conectar!
-
-Estou sempre aberto a novas oportunidades, colaborações e trocas de ideias. Se você compartilha do mesmo entusiasmo por programação, vamos nos conectar!
-
----
-
-;)
